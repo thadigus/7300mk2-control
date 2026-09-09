@@ -1,0 +1,5 @@
+[tool.uv]
+required-version = ">=0.12.5"
+
+[tool.uv.workspace]
+members = ["ic7300mk2-sdk"]
