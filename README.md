@@ -10,7 +10,7 @@ a Python SDK for the RS-BA1-style UDP protocol, a backend that turns one radio
 session into HTTP and WebSocket streams, and a browser front end that runs the
 radio - panadapter, receive audio, every control the API exposes.
 
-While we have exciting 
+While there is a lot of exciting software in the works, behind closed doors, I am responsibly releasing this code in waves as I confirm my research on this topic. The screenshot above is fully funtioning in my test environment, but it unfortunately relies on a lot of code that I do not yet understand. As I refactor and grow to understand this codebase more, I will release more of it into the wild. Today, we're starting with the Python SDK that initially started my project.
 
 > [!NOTE]
 > **Canonical source:** This repository lives on our self-hosted (not public) Forgejo instance at **`git.turnerservices.cloud`**. Public mirrors on **GitHub**, **GitLab**, and **Codeberg** are **read-only**. We are only going to sync the **main** branch to public repos.
